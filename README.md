@@ -21,15 +21,15 @@ See the working app here:
 
 automatic-waffle uses:
 
--[express](https://expressjs.com/) / Express
+- [express](https://expressjs.com/) / Express
 
--[express-handlebars](https://www.npmjs.com/package/express-handlebars) / Express-Handlebars
+- [express-handlebars](https://www.npmjs.com/package/express-handlebars) / Express-Handlebars
 
--[mongoose](https://mongoosejs.com/) / Mongoose
+- [mongoose](https://mongoosejs.com/) / Mongoose
 
--[cheerio](https://github.com/cheeriojs/cheerio) / Cheerio
+- [cheerio](https://github.com/cheeriojs/cheerio) / Cheerio
 
--[axios](https://www.npmjs.com/package/axios) / Axios
+- [axios](https://www.npmjs.com/package/axios) / Axios
 
 ## Bugs and feature requests
 
