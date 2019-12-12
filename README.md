@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cl33per/automatic-waffle)
 ### Summary
 
-automatic-waffle is designed too...
+automatic-waffle is designed to...
 
 See the working app here:
 https://desolate-gorge-77548.herokuapp.com/
